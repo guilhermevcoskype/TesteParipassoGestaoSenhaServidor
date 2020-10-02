@@ -1,5 +1,11 @@
 # TesteParipassoGestaoSenhaServidor
-Sistema de gestão de senhas para resolução do teste da empresa Paripassu
+Sistema de gestão de senhas para resolução do teste da empresa Paripassu - Parte Servidor
+
+A linguagem Back-end utilizada é o Java com os frameworks Spring boot e Security.
+
+As linguagens front-end utilizadas foram HTML e CSS ultizando o Bootstrap 4.0 e Thymeleaf.
+
+O Administrador de banco de dados utilizado é o Postgres 4.26
 
 Passos para execução:
 
