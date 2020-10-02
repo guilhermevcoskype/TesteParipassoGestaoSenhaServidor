@@ -1,6 +1,8 @@
 # TesteParipassoGestaoSenhaServidor
 Sistema de gestão de senhas para resolução do teste da empresa Paripassu
 
+Passos para execução:
+
 Executar com uma IDE com suporte a Java e Maven, de preferência o Eclipse.
 
 Baixar a pasta do projeto e abrir como projeto Maven.
